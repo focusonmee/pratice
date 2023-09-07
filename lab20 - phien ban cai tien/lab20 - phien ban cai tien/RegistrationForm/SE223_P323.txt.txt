@@ -1,0 +1,12 @@
+      Aboard Program Registration Form
+Information Student:
+Student id: SE223          Student name:Bui Viet Hung 
+Major: SE                Email: hung@fpt.edu.vn    Phone: 0899988888    Passport: VN55555
+Address: Tp hcm         Email of the parents: hung@gmail.com    Phone of the parents: 0988888888
+
+Information of the aboard program:
+Program’s id: P323          Program’s name: Che Tao Ai 
+Time: july              Days: 40        Location: America      Cost: 800.0
+
+Information of the registration:
+registration date: 02-05-2022

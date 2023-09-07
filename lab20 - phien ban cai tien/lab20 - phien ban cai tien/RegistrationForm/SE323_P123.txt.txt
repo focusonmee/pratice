@@ -1,0 +1,12 @@
+      Aboard Program Registration Form
+Information Student:
+Student id: SE323          Student name:Phung Quoc Thang 
+Major: SE                Email: thang@fpt.edu.vn    Phone: 0998888979    Passport: VN99990
+Address: Tp hcm         Email of the parents: thang@gmail.com    Phone of the parents: 0987667897
+
+Information of the aboard program:
+Program’s id: P123          Program’s name: Hoc Van Cao Cap 
+Time: march              Days: 32        Location: Myanma      Cost: 90.0
+
+Information of the registration:
+registration date: 02-03-2022

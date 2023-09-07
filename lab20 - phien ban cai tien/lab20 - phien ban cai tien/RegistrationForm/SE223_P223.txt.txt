@@ -1,0 +1,12 @@
+      Aboard Program Registration Form
+Information Student:
+Student id: SE223          Student name:Bui Viet Hung 
+Major: SE                Email: hung@fpt.edu.vn    Phone: 0899988888    Passport: VN55555
+Address: Tp hcm         Email of the parents: hung@gmail.com    Phone of the parents: 0987888888
+
+Information of the aboard program:
+Program’s id: P223          Program’s name: Hoc Nang Cao 
+Time: july              Days: 39        Location: Malaysia      Cost: 900.0
+
+Information of the registration:
+registration date: 02-06-2022
