@@ -1,0 +1,9 @@
+Order: O001,15/02/2023,Thuan ;
+Detail: OD01,F001,12,1896.0 ;
+Total: 12,1896.0 ;
+Order: O002,15/02/2023,Thuan ;
+Detail: OD01,F001,12,1896.0 ;
+Total: 12,1896.0 ;
+Order: O003,15/02/2023,Thuan ;
+Detail: OD01,F001,12,1896.0 ;
+Total: 12,1896.0 ;

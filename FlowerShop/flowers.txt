@@ -1,0 +1,7 @@
+F011,lan,dep,21/06/2023,120.0,xau,false
+F010,rose,dep,21/06/2023,100.0,red,false
+F004,Mai,Ngay Tet,20/06/2023,233.0,Yellow,true
+F003,Lan,Mui thom,18/06/2023,300.0,Purple,true
+F001,Hong,Co Gai,17/06/2023,250.0,Red,true
+F005,Giay,Gia re,14/06/2023,5.0,Red,false
+F002,Cuc,Ban Chay,16/06/2023,50.0,Yellow,true

@@ -1,0 +1,12 @@
+      Aboard Program Registration Form
+Information Student:
+Student id: SE123          Student name:Ngo Duc Anh 
+Major: SE                Email: danh@fpt.edu.vn    Phone: 0988889899    Passport: VN09892
+Address: Tp hcm         Email of the parents: anh@gmail.com    Phone of the parents: 0988738232
+
+Information of the aboard program:
+Program’s id: P223          Program’s name: Hoc Nang Cao 
+Time: july              Days: 39        Location: Malaysia      Cost: 900.0
+
+Information of the registration:
+registration date: 02-06-2022
